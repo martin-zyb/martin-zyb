@@ -12,6 +12,6 @@ I'm martin-zyb. I come from China. I am proficient in C/C++, GLSL and Java.
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/martin-zyb/Remc/pull/2) in [martin-zyb/Remc](https://github.com/martin-zyb/Remc)
-2. 🎉 Merged PR [#1](https://github.com/martin-zyb/Remc/pull/1) in [martin-zyb/Remc](https://github.com/martin-zyb/Remc)
+1. ❗ Opened issue [#1](https://github.com/bridgeL/pacman2/issues/1) in [bridgeL/pacman2](https://github.com/bridgeL/pacman2)
+2. ❗ Opened issue [#1](https://github.com/martin-zyb/pacman/issues/1) in [martin-zyb/pacman](https://github.com/martin-zyb/pacman)
 <!--END_SECTION:activity-->
