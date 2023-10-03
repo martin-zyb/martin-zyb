@@ -12,6 +12,6 @@ I'm martin-zyb. I come from China. I am proficient in C/C++, GLSL and Java.
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/martin-zyb/Remc/pull/11) in [martin-zyb/Remc](https://github.com/martin-zyb/Remc)
-2. 🗣 Commented on [#11](https://github.com/martin-zyb/Remc/pull/11#issuecomment-1745068066) in [martin-zyb/Remc](https://github.com/martin-zyb/Remc)
+1. 🎉 Merged PR [#12](https://github.com/martin-zyb/Remc/pull/12) in [martin-zyb/Remc](https://github.com/martin-zyb/Remc)
+2. 🎉 Merged PR [#11](https://github.com/martin-zyb/Remc/pull/11) in [martin-zyb/Remc](https://github.com/martin-zyb/Remc)
 <!--END_SECTION:activity-->
